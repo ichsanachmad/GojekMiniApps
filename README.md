@@ -50,9 +50,9 @@ But sorry in this program i used Bahasa (Indonesian Language) and English
 - You Must Input Your Current Location.
 - Only Show Nearest Driver
 ## Updates
-[X] Driver Moving
-[] Add More Drivers
-[] Add Cost And Balance
+- [X] Driver Moving
+- [] Add More Drivers
+- [] Add Cost And Balance
 
 ## Thanks To
 - **Go-Jek Indonesia.**
