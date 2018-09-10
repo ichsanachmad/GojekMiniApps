@@ -51,8 +51,8 @@ But sorry in this program i used Bahasa (Indonesian Language) and English
 - Only Show Nearest Driver
 ## Updates
 - [X] Driver Moving
-- [] Add More Drivers
-- [] Add Cost And Balance
+- [ ] Add More Drivers
+- [ ] Add Cost And Balance
 
 ## Thanks To
 - **Go-Jek Indonesia.**
