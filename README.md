@@ -45,6 +45,21 @@ But sorry in this program i used Bahasa (Indonesian Language) and English
      [*]  [*]  [*]  [*]  [*] 
     Driver Arrived
 
+## BUGS/ETC
+- The input of the application is only **INTEGER (INT)**. 
+- You Must Input Your Current Location.
+- Only Show Nearest Driver
+## Updates
+[X] Driver Moving
+[] Add More Drivers
+[] Add Cost And Balance
+
 ## Thanks To
 - **Go-Jek Indonesia.**
 - **Android Dev UNSRI**
+
+## Contact
+- <ichsanachmad33@gmail.com>
+- https://www.instagram.com/isan_on/
+
+
