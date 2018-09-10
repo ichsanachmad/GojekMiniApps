@@ -61,6 +61,6 @@ But sorry in this program i used Bahasa (Indonesian Language) and English
 
 ## Contact
 - <ichsanachmad33@gmail.com>
-- https://www.instagram.com/isan_on/
+- [Instagram : Isan On](https://www.instagram.com/isan_on/)
 
 
