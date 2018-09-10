@@ -1,14 +1,13 @@
-# GojekMiniApps
-Documentation : 
+# Gojek Mini Apps
+ 
 
 This is Go Jek Indonesia Mini Apps
-
 GoJek Mini Apps By Sanstation are made by Java Language and using my logic to build this
 i dont think so this program doesnt have any bugs, and hope you like and enjoy my aplication thanks!!!
 But sorry in this program i used Bahasa (Indonesian Language) and English 
 
 
-Application Overview:
+#Application Overview
 
 
     SELAMAT DATANG DI APLIKASI GOJEK MINI APPS BY SANSTATION
@@ -47,4 +46,4 @@ Application Overview:
     Driver Arrived
 
 
-Thanks To GoJek Indonesia,
+Thanks To GoJek Indonesia.
