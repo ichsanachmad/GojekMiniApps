@@ -53,6 +53,7 @@ But sorry in this program i used Bahasa (Indonesian Language) and English
 - [X] Driver Moving
 - [ ] Add More Drivers
 - [ ] Add Cost And Balance
+- [ ] Add Destination
 
 ## Thanks To
 - **Go-Jek Indonesia.**
